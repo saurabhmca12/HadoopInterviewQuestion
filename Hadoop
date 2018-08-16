@@ -1,0 +1,27 @@
+Here are top Big Data interview questions with the detailed answers to
+the specific questions.
+we will share some tips on how to answer them
+
+1. What do you know about the term “Big Data”?
+Answer: Big Data is a term associated with complex and large
+datasets. A relational database cannot handle big data, and that’s why
+special tools and methods are used to perform operations on a vast
+collection of data. Big data enables companies to understand their
+business better and helps them derive meaningful information from the
+unstructured and raw data collected on a regular basis. Big data also
+allows the companies to take better business decisions backed by data.
+
+2. What are the five V’s of Big Data?
+Answer: The five V’s of Big data is as follows:
+• Volume – Volume represents the volume i.e. amount of data that
+is growing at a high rate i.e. data volume in Petabytes
+• Velocity – Velocity is the rate at which data grows. Social media
+contributes a major role in the velocity of growing data.
+• Variety – Variety refers to the different data types i.e. various
+data formats like text, audios, videos, etc.
+• Veracity – Veracity refers to the uncertainty of available data.
+Veracity arises due to the high volume of data that brings
+incompleteness and inconsistency.
+• Value –Value refers to turning data into value. By turning
+accessed big data into values, businesses may generate revenue.
+5 V’s
